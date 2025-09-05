@@ -11,12 +11,12 @@
 ---
 
 ### 🚀 About Me  
-I'm an **AI/ML Engineer** with expertise in building **Large & Small Language Models (LLMs/SLMs)** from scratch, developing **RAG systems**, and deploying scalable solutions with **MLOps pipelines**.
+I'm an **AI/ML Engineer** with expertise in building **Large & Small Language Models (LLMs/SLMs)** from scratch, developing **RAG systems**, and deploying scalable solutions with **MLOps pipelines** and many more.
+- 👯 Open to **collaborating with AI research teams and enterprise AI projects** 
 - 🔭 I specialize in **building LLMs & SLMs from scratch**  
 - 🧠 Experienced in **Machine Learning, Deep Learning, and NLP**  
 - ⚡ Skilled in **RAG systems, Hugging Face, and scalable MLOps**  
-- 🔄 Automating workflows with **n8n & CI/CD pipelines**  
-- 👯 Open to **collaborating with AI research teams and enterprise AI projects**  
+- 🔄 Automating workflows with **n8n & CI/CD pipelines**   
 - 📫 Reach me at: **abhishekkori601@gmail.com**
 
 ---
