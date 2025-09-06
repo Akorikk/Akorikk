@@ -53,7 +53,9 @@ I'm an **AI/ML Engineer** with expertise in building **Large & Small Language Mo
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/a6904259-2161-4006-a472-6207bfd860f5" alt="lang chain"wight="40" height="40" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google-colab" width="40" height="40"/> 
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google-colab" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/01ad886f-fb16-4a8c-96a9-b0e97b8d578e" alt="jupyter notebook"wight="40"height="40"/>
+
 
 
 </p>
